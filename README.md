@@ -86,7 +86,7 @@ Frontend runs at: http://localhost:5173
 
 1. Go to [railway.app](https://railway.app) and login with GitHub
 2. Click **"New Project"** → **"Deploy from GitHub repo"**
-3. Select `beotavalo/agente-investigador`
+3. Select `mfranco/agente-investigador`
 
 #### Step 2: Configure Service
 
@@ -120,7 +120,7 @@ Go to **Variables** tab and add:
 
 1. Go to [vercel.com](https://vercel.com) and login with GitHub
 2. Click **"Add New..."** → **"Project"**
-3. Import `beotavalo/agente-investigador`
+3. Import `mfranco/agente-investigador`
 
 #### Step 2: Configure Build
 
